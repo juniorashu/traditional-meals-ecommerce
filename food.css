@@ -1,0 +1,17 @@
+.food {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  margin-right: 200px;
+  margin-left: 27px;
+  margin-top:150px ;
+}
+.buy {
+  width: 50%;
+  margin-left: 45px;
+  margin-bottom: 10px;
+  box-shadow: 1px 1px 6px 0px;
+}
+.name {
+  text-align: center;
+}
